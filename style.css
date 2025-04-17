@@ -1,0 +1,37 @@
+
+  .flag {
+    position: relative;
+    width: 700px;
+    height: 400px;
+    background-color: #00519D;
+    border: black solid 1px;
+  }
+  .white-vertical {
+    position: absolute;
+    background-color: white;
+    width: 100px;
+    height: 100%;
+    left: 170px;
+  }
+  .white-horizontal {
+    position: absolute;
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    top: 150px;
+  }
+  .red-vertical {
+    position: absolute;
+    background-color: #d72828;
+    width: 50px;
+    height: 100%;
+    left: 195px;
+  }
+  .red-horizontal {
+    position: absolute;
+    background-color: #d72828;
+    height: 50px;
+    width: 100%;
+    top: 175px;
+  }
+  
